@@ -1,1 +1,2 @@
-### Aim of the experiment
+The aim of this experiment is to apply the basic OR gate logic in industrial control process.
+The user will be able to drag and drop the OR gate on the blank canvas and make input-output connections and verify the truth table.

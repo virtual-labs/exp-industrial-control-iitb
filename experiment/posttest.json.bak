@@ -1,0 +1,60 @@
+
+ [
+    {
+      "question": " Which of the following gates would you choose if the alarm is to be activated if temperature and pressure exceed their maximum limits at the same time?  ", 
+       "qid": 1, 
+      
+        "option_a":  "AND",                 
+        "option_b": "OR",                  
+        "option_c": "NOR",                 
+        "option_d":  "NAND",                            
+                                      
+      
+      "correct_option": "a"                
+    }, {
+      "question": " Under what condition would a two input OR gate allow a logic signal to pass through to its output unchanged?", 
+       "qid": 2,
+      
+        
+        "option_a":  "When one of the inputs is HIGH",                  
+        "option_b": "When both the inputs are HIGH",                                 
+        "option_c": " When both the inputs are LOW.",
+        "option_d":  "When one of the inputs is LOW",                
+                                      
+      
+      "correct_option": "d"                
+    },  {
+      "question": "Are the two statements below concerning an OR gate always true? (i) If the output waveform from an OR gate is the same as the waveform at one of its inputs, the other input is being held permanently LOW. (ii) If the output waveform from an OR gate is always HIGH, one of its inputs is being held permanently HIGH.",
+       "qid": 3,
+      
+        "option_a":  "Yes",                 
+        "option_b": "No",
+        "option_c": "Not predictable",
+        "option_d":  "None of these ",                 
+                                       
+      
+      "correct_option": "a"             
+      },  {
+    "question": " When the weight is overloaded (logic 1 o/p of weight sensor) or the water level is low (logic 1 o/p of level sensor) or both conditions are true, which gate should be used to indicate alarming condition?  <br> <img src = 'images/Exp2-Posta1.png' > ",  
+     "qid": 4,
+      
+        "option_a":  "AND",                  
+        "option_b": "OR",
+        "option_c": "NOR",
+        "option_d":  "XOR",               
+                                      
+      
+      "correct_option": "b"                
+    }, {
+      "question": "Complete each expression: \n (i) A + 1 = __________   \n (ii) A + 0 = __________ \n (iii) A + A’ = _______  \n (iv) A+ A = _________   "  ,
+       "qid": 5,
+      
+        "option_a": " A,1,A,1",
+        "option_b": "1,A,1,A",
+        "option_c": "A,0,A,A",
+        "option_d":  "1,A,0,A",
+      
+      "correct_option": "b"
+    }
+  
+  ]
