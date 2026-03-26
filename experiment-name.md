@@ -1,0 +1,1 @@
+## Basics of OR gate and its application in industrial control
