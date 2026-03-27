@@ -1,0 +1,59 @@
+
+  [
+    {
+      "question": "For the gate shown, inputs A & B are applied which produce an output as shown in Option: <br> <img src = 'images/Exp2-q1.png' >",  
+     "qid": 1,
+        "option_a": " <img src = 'images/Exp2-q1a.png' > ",
+        
+        "option_b": " <img src = 'images/Exp2-q1b.png' > ",                                    
+        "option_c":  " <img src = 'images/Exp2-q1c.png' > ",
+    
+        "option_d": "None of the above",
+      
+      
+      "correct_option": "a"              
+    }, {
+      "question": "Which of the following logic circuit represents the situation: The output Y will go HIGH whenever conditions A & B exist simultaneously or whenever conditions C & D exist simultaneously.",  
+     "qid": 2,
+        "option_a": " <img src = 'images/Exp2-q2a.png' > ",                 
+        "option_b": " <img src = 'images/Exp2-q2b.png' > ",               
+        "option_c":  "Both A and B",
+        "option_d": "None of the above",
+
+       
+      "correct_option": "c"  
+      }, {
+        "question": " The output goes LOW only when all inputs are LOW is the interpretation of which of the following gate symbols?",  
+       "qid": 3,
+          "option_a": " <img src = 'images/Exp2-q3a.png' > ",                  
+          "option_b": " <img src = 'images/Exp2-q3b.png' > ",               
+          "option_c":  " <img src = 'images/Exp2-q3c.png' > ",
+          
+          "option_d": " <img src = 'images/Exp2-q3d.png' > ",
+        
+         
+      "correct_option": "a"  
+        }, {
+          "question": "An OR gate with inverted inputs is ___________gate.",  
+         "qid": 4,
+            "option_a": "AND",                 
+            "option_b": "NAND",              
+            "option_c":  "NOR",
+            "option_d": "NOT",
+           
+        "correct_option": "b" 
+          }, {
+            "question": "The Boolean expression for the switch analogy shown below is: <br> <img src = 'images/Exp2-q5.png' > ", 
+            "qid": 5, 
+           
+              "option_a": "(A + C).B",                 
+              "option_b": "(A + C).B",              
+              "option_c":  " A.B + C",
+              "option_d":  " None of these",
+             
+          "correct_option": "c" 
+            }
+    
+
+
+  ]
